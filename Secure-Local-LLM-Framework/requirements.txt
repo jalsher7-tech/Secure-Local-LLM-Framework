@@ -1,0 +1,8 @@
+ctransformers>=0.2.27
+vosk>=0.3.45
+pyaudio>=0.2.14
+cryptography>=41.0.0
+nuitka>=1.8.0
+keyring>=24.0.0
+pypdf2>=3.0.0
+pyqt6>=6.4.0
