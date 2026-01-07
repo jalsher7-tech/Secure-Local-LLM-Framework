@@ -44,4 +44,4 @@ This framework is optimized for speed on commodity hardware. You can verify the 
 benchmark.py
 ```   
 ### 📄 Research
-Based on the paper: **"Mitigating Data Leakage in High-Compliance Environments"** - *Jamil Alshaer (2025)*.
+Based on the paper: **"Mitigating Data Leakage in High-Compliance Environments"** - *Jamil Alshaer (2025)*.(Currently under academic review)
