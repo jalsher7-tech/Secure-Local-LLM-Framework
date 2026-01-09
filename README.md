@@ -4,7 +4,7 @@
 
 **A Local-First, Memory-Safe Inference Architecture for High-Compliance Environments.**
 
-This repository contains the open-source backend framework used in **Cyphie**, a commercial Governance tool for Shadow AI. It addresses the challenges of deploying secure, offline Large Language Models (LLMs) in environments requiring strict data sovereignty.
+This repository contains the open-source backend framework used in **Cyphie**, a Governance tool for Shadow AI. It addresses the challenges of deploying secure, offline Large Language Models (LLMs) in environments requiring strict data sovereignty.
 
 **Researcher & Developer:** Jamil Alshaer  
 **Affiliation:** Independent Researcher (Azimuth Logic Research)
